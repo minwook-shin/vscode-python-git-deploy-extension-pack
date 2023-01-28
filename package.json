@@ -1,7 +1,7 @@
 {
-  "name": "python-git-deploy-extension",
-  "displayName": "Python Git Deploy Extension",
-  "description": "Quick install VisualStudio Code Extension and Quick Git deploy Python Application",
+  "name": "python-git-deploy-extension-pack",
+  "displayName": "Python Git Deploy Extension Pack",
+  "description": "Install Extension and Git deploy Python Application",
   "version": "0.0.1",
   "publisher": "minwook-shin",
   "author": {
@@ -19,13 +19,13 @@
     "deploy",
     "extension"
   ],
-  "homepage": "https://github.com/minwook-shin/vscode-python-deploy-extension-pack",
+  "homepage": "https://github.com/minwook-shin/vscode-python-git-deploy-extension-pack",
   "bugs": {
-    "url": "https://github.com/minwook-shin/vscode-python-deploy-extension-pack/issues"
+    "url": "https://github.com/minwook-shin/vscode-python-git-deploy-extension-pack/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/minwook-shin/vscode-python-deploy-extension-pack.git"
+    "url": "https://github.com/minwook-shin/vscode-python-git-deploy-extension-pack.git"
   },
   "extensionPack": [ 
     "ms-python.python",

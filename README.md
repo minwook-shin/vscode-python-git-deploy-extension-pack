@@ -1,5 +1,5 @@
-# vscode-python-deploy-extension-pack
-Quick install VisualStudio Code Extension and Quick Git deploy Python Application
+# vscode-python-git-deploy-extension-pack
+Install Extension and Git deploy Python Application
 
 ## Extension List
 
